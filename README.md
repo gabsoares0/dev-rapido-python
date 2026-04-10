@@ -1,2 +1,12 @@
-# dev-rapido-python
-Atividades da disciplina de Desenvolvimento Rápido de Aplicações em Python
+# Atividades - Desenvolvimento Rápido de Aplicações em Python
+
+Este repositório reúne as 4 atividades da disciplina.
+
+##  Estrutura
+
+- [Desafio API](./atividade-01)
+
+## Aluno
+
+Gabriel Letácio
+202402398164
