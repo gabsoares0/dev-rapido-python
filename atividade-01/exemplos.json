@@ -1,1 +1,22 @@
-
+{
+  "soma": {
+    "a": 10,
+    "b": 5,
+    "operacao": "soma"
+  },
+  "subtracao": {
+    "a": 10,
+    "b": 5,
+    "operacao": "subtracao"
+  },
+  "multiplicacao": {
+    "a": 10,
+    "b": 5,
+    "operacao": "multiplicacao"
+  },
+  "divisao": {
+    "a": 10,
+    "b": 5,
+    "operacao": "divisao"
+  }
+}
